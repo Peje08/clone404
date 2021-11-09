@@ -4,9 +4,6 @@
     box-sizing: border-box;
     list-style: none;
 }
-html{
-    font-family:"Nunito Sans";
-}
 
 body{
     display: flex;
@@ -59,10 +56,10 @@ p{
     margin-top: 8px;
 }
 
-.home{
+.homeBtn{
     margin: 15px 0 0 10px;
-    border: 4px solid #2bcf6e;
-    border-radius: 25%;
-    padding: 10px 35px;
+    border: 4px solid #44bf76;
+    border-radius: 2em;
+    padding: 10px 45px;
     background: none;
 }
